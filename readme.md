@@ -29,7 +29,7 @@ image-classifier/
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/image-classifier.git
+git clone https://github.com/kashiflab/image-classifier.git
 cd image-classifier
 ````
 
